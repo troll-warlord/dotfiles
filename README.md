@@ -11,7 +11,7 @@ Shell configuration for macOS (zsh) and Ubuntu/WSL (bash), plus a vim config.
 ## Installation
 
 ```sh
-git clone https://github.com/<your-username>/dotfiles.git
+git clone https://github.com/troll-warlord/dotfiles.git
 cd dotfiles
 ```
 
